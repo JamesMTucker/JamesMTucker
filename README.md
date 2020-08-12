@@ -42,7 +42,7 @@ I am a doctoral candidate in the collaborative doctoral program in [Near and Mid
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img align="left" alt="James M. Tucker | Github Activity" src="https://github-readme-stats.vercel.app/api?username=JamesMTucker&show_icons=true&hide_border=true" />
+<img align="left" alt="James M. Tucker | Github Activity" src="https://github-readme-stats.vercel.app/api?username=JamesMTucker&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://jamesmtucker.com
 [twitter]: https://twitter.com/James_M_Tucker
