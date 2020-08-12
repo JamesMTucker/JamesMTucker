@@ -41,6 +41,9 @@ I am a doctoral candidate in the collaborative doctoral program in [Near and Mid
 - [Palaeographical Analysis of 1QS+ab 5:1 (4Q256 3:1 [olim frag. 4] and 4Q258 1:1): A Blurb about my PhD Thesis](https://jamesmtucker.com/?p=645&utm_source=rss&utm_medium=rss&utm_campaign=palaeographical-analysis-of-1qsab-51-4q256-31-olim-frag-4-and-4q258-11-a-blurb-about-my-phd-thesis)
 <!-- BLOG-POST-LIST:END -->
 
+---
+<img align="left" alt="James M. Tucker | Github Activity" src="https://github-readme-stats.vercel.app/api?usrname=JamesMTucker&show_icons=true&hide_border=true" />
+
 [website]: https://jamesmtucker.com
 [twitter]: https://twitter.com/James_M_Tucker
 [linkedin]: https://www.linkedin.com/in/james-m-tucker-7082251b0/
