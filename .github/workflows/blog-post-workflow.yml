@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
-      with:
-        feed_list: "https://jamesmtucker.com/?feed=rss2"
+        with:
+          feed_list: "https://jamesmtucker.com/?feed=rss2"
