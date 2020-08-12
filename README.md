@@ -5,9 +5,9 @@
 ### Connect with me:
 
 [<img align="left" alt="jamesmtucker.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="James M. Tucker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jamesmtucker.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jamesmtucker.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/academia.svg" />][academia]
+[<img align="left" alt="James M. Tucker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jamesmtucker.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jamesmtucker.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg" />][academia]
 
 <br />
 <br />
