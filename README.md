@@ -1,16 +1,18 @@
-### Hi there 👋
+### About Me
 
-<!--
-**JamesMTucker/JamesMTucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PhD in Ancient Jewish Law
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="jamesmtucker.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jamesmtucker.com" width="22px" src="https://cdn.jsdeliver.net/npm/simple-icon@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jamesmtucker.com" width="22px" src="https://cdn.jsdeliver.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
+[][academia]
+
+<br />
+<br />
+
+[website]: https://jamesmtucker.com
+[twitter]: https://twitter.com/James_M_Tucker
+[linkedin]: https://www.linkedin.com/in/james-m-tucker-7082251b0/
+[academia]: https://utoronto.academia.edu/JamesTucker
