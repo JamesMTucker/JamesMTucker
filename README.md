@@ -34,11 +34,11 @@ I am a doctoral candidate in the collaborative doctoral program in [Near and Mid
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hebrew Semantics – Reframing it All (with a note on 1QS)](https://jamesmtucker.com/?p=831&utm_source=rss&utm_medium=rss&utm_campaign=hebrew-semantics-reframing-it-all-with-a-note-on-1qs)
 - [Schriftenmetric – A Digital Humanities Method to Analyze Ancient Jewish Scripts](https://jamesmtucker.com/?p=823&utm_source=rss&utm_medium=rss&utm_campaign=schriftenmetric-a-digital-humanities-method-to-analyze-ancient-jewish-scripts)
 - [Regions of Interest Quantified – Introduction to a Digital Humanities Solution to Editorial Methods (Part III.5)](https://jamesmtucker.com/?p=758&utm_source=rss&utm_medium=rss&utm_campaign=regions-of-interest-quantified-introduction-to-a-digital-humanities-solution-to-editorial-methods-part-iii-5)
 - [Regions of Interest Quantified – Solving Problems of the Analogue Methods of the Discoveries in the Judean Desert Series (Part III.4)](https://jamesmtucker.com/?p=618&utm_source=rss&utm_medium=rss&utm_campaign=regions-of-interest-quantified-solving-problems-of-the-analogue-methods-of-the-discoveries-in-the-judean-desert-series-part-iii-4)
 - [Job Search – Ups and Downs](https://jamesmtucker.com/?p=687&utm_source=rss&utm_medium=rss&utm_campaign=job-search-ups-and-downs)
-- [eWorkshop – Digital Methods of Material Reconstruction: The Jigsaw Puzzle of the Dead Sea Scrolls](https://jamesmtucker.com/?p=668&utm_source=rss&utm_medium=rss&utm_campaign=digital-methods-of-material-reconstruction-the-jigsaw-puzzle-of-the-dead-sea-scrolls)
 <!-- BLOG-POST-LIST:END -->
 
 ---
