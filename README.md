@@ -34,11 +34,11 @@ I am a doctoral candidate in the collaborative doctoral program in [Near and Mid
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Midrash Fridays – Deut. 1:1 ~ SifreDeut § 1 Pasuk 1](https://jamesmtucker.com/?p=848&utm_source=rss&utm_medium=rss&utm_campaign=midrash-fridays-deut-11-sifredeut-%25c2%25a7-1-pasuk-1)
 - [Ancient Scribal Reading Practices: Did the Tradents of Qumran Read with a Yad?](https://jamesmtucker.com/?p=853&utm_source=rss&utm_medium=rss&utm_campaign=ancient-scribal-reading-practices-did-the-tradents-of-qumran-read-with-a-yad)
 - [Hebrew Semantics – Reframing it All (with a note on 1QS)](https://jamesmtucker.com/?p=831&utm_source=rss&utm_medium=rss&utm_campaign=hebrew-semantics-reframing-it-all-with-a-note-on-1qs)
 - [Schriftenmetric – A Digital Humanities Method to Analyze Ancient Jewish Scripts](https://jamesmtucker.com/?p=823&utm_source=rss&utm_medium=rss&utm_campaign=schriftenmetric-a-digital-humanities-method-to-analyze-ancient-jewish-scripts)
 - [Regions of Interest Quantified – Introduction to a Digital Humanities Solution to Editorial Methods (Part III.5)](https://jamesmtucker.com/?p=758&utm_source=rss&utm_medium=rss&utm_campaign=regions-of-interest-quantified-introduction-to-a-digital-humanities-solution-to-editorial-methods-part-iii-5)
+- [Regions of Interest Quantified – Solving Problems of the Analogue Methods of the Discoveries in the Judean Desert Series (Part III.4)](https://jamesmtucker.com/?p=618&utm_source=rss&utm_medium=rss&utm_campaign=regions-of-interest-quantified-solving-problems-of-the-analogue-methods-of-the-discoveries-in-the-judean-desert-series-part-iii-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
