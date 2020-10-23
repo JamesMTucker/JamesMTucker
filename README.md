@@ -34,11 +34,11 @@ I am a doctoral candidate in the collaborative doctoral program in [Near and Mid
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [On Material Reconstruction: No More Guessing Games](https://jamesmtucker.com/?p=919&utm_source=rss&utm_medium=rss&utm_campaign=on-material-reconstruction-no-more-guessing-games)
 - [Schriftenmetric – A Digital Humanities Approach to Scroll Reconstruction (Part IV.1)](https://jamesmtucker.com/?p=879&utm_source=rss&utm_medium=rss&utm_campaign=schriftenmetric-a-digital-humanities-approach-to-scroll-reconstruction-part-iv-1)
 - [Ancient Scribal Reading Practices: Did the Tradents of Qumran Read with a Yad?](https://jamesmtucker.com/?p=853&utm_source=rss&utm_medium=rss&utm_campaign=ancient-scribal-reading-practices-did-the-tradents-of-qumran-read-with-a-yad)
 - [Hebrew Semantics – Reframing it All (with a note on 1QS)](https://jamesmtucker.com/?p=831&utm_source=rss&utm_medium=rss&utm_campaign=hebrew-semantics-reframing-it-all-with-a-note-on-1qs)
 - [Schriftenmetric – A Digital Humanities Method to Analyze Ancient Jewish Scripts](https://jamesmtucker.com/?p=823&utm_source=rss&utm_medium=rss&utm_campaign=schriftenmetric-a-digital-humanities-method-to-analyze-ancient-jewish-scripts)
-- [Regions of Interest Quantified – Introduction to a Digital Humanities Solution to Editorial Methods (Part III.5)](https://jamesmtucker.com/?p=758&utm_source=rss&utm_medium=rss&utm_campaign=regions-of-interest-quantified-introduction-to-a-digital-humanities-solution-to-editorial-methods-part-iii-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
