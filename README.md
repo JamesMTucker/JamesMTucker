@@ -2,7 +2,7 @@
 
 ## PhD in Jewish Law
 
-I am a doctoral candidate in the collaborative doctoral program in [Near and Middle Eastern Civilizations][NMC] and the [Anne Tanenbaum Centre for Jewish Studies][CJS] at the University of Toronto. I specalise on legal interpretation and legal traditions in the Second Temple era, leading into the early Rabbinic and Christian eras.
+I am a doctoral candidate in the collaborative doctoral program in [Near and Middle Eastern Civilizations][NMC] and the [Anne Tanenbaum Centre for Jewish Studies][CJS] at the University of Toronto. I specalise in legal interpretation of the Hebrew Bible and Jewish Law in the Second Temple era, leading into the early Rabbinic and Christian eras.
 
 ## Hobbies and Interests
 
