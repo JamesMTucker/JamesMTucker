@@ -1,22 +1,21 @@
 ### About Me
 
-## PhD in Jewish Law
+---
+#### Education
 
-I am a doctoral candidate in the collaborative doctoral program in [Near and Middle Eastern Civilizations][NMC] and the [Anne Tanenbaum Centre for Jewish Studies][CJS] at the University of Toronto. I specalise on legal interpretation and legal traditions in the Second Temple era, leading into the early Rabbinic and Christian eras.
+* Ph.D. (University of Toronto)
+* MA (Trinity Western University)
 
-## Hobbies and Interests
+#### Current Projects
+
+* Digital Editions of the Rule of the Community Manuscripts at Qumran (Digital Humanities)
+* Natural Language Processing of Ancient Hebrew (Data Science and Linguistics)
+* Fragment Identification (Computer Vision)
+#### Hobbies and Interests
 
 * I enjoy playing tennis.
 * I enjoy solving problems, learning computer science, and thinking about the relationship between technology, society, media, and knowledge.
 * I enjoy cooking and making spectacular dishes.
-
----
-
-## Current Projects
-
-* Digital Editions of the Rule of the Community Manuscripts at Qumran
-* Monograph on the early interpretation and transmission of the _Song of Songs_ in early Jewish, Syriac, and Christian Legal Imaginations
-* A Critical and Comparative Analysis of Deuteronomy and its reception in the legal interpretation of Qumran tradents, Philo, Josephus, _Sifrei Devarim_, _Mekhilta_, and _Zuta_.
 
 ---
 
