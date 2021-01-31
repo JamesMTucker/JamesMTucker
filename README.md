@@ -1,21 +1,21 @@
-### About Me
+## About Me
 
 ---
-#### Education
+### Education
 
 * Ph.D. (University of Toronto)
 * MA (Trinity Western University)
 
-#### Current Projects
+### Current Projects
 
-* Digital Editions of the Rule of the Community Manuscripts at Qumran (Digital Humanities)
-* Natural Language Processing of Ancient Hebrew (Data Science and Linguistics)
-* Fragment Identification (Computer Vision)
+* Digital Editions of Ancient Hebrew Manuscripts (Digital Humanities; Django/Python)
+* Natural Language Processing of Ancient Hebrew (Data Science and Linguistics; Fastai, Pytorch, and PostgreSQL)
+* Fragment Identification (Computer Vision; Fastai and Pytorch)
 
-#### Hobbies and Interests
+### Hobbies and Interests
 
 * I enjoy playing tennis.
-* I enjoy solving problems, learning computer science, and thinking about the relationship between technology, society, media, and knowledge.
+* I enjoy solving problems, learning computer science, and writing about the relationship between technology, society, media, and knowledge.
 * I enjoy cooking and making spectacular dishes.
 
 ---
@@ -23,9 +23,10 @@
 ### Connect with me
 
 [<img align="left" alt="jamesmtucker.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="James M. Tucker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jamesmtucker.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jamesmtucker.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg" />][academia]
+[<img align="left" alt="James M. Tucker | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="James M. Tucker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="James M. Tucker | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg" />][academia]
+[<img align="left" alt="James M. Tucker | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />][email]
 
 <br />
 <br />
@@ -50,3 +51,4 @@
 [academia]: https://utoronto.academia.edu/JamesTucker
 [NMC]: https://nmc.utoronto.ca/
 [CJS]: http://www.cjs.utoronto.ca/
+[email]: mailto:j.tucker@mail.utoronto.ca
