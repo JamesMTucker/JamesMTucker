@@ -22,11 +22,11 @@
 
 ### Connect with me
 
-[<img align="left" alt="jamesmtucker.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="James M. Tucker | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="James M. Tucker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="James M. Tucker | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg" />][academia]
-[<img align="left" alt="James M. Tucker | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />][email]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Academia" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg" />][academia]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />][email]
 
 <br />
 <br />
