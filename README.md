@@ -11,6 +11,7 @@
 * Digital Editions of the Rule of the Community Manuscripts at Qumran (Digital Humanities)
 * Natural Language Processing of Ancient Hebrew (Data Science and Linguistics)
 * Fragment Identification (Computer Vision)
+
 #### Hobbies and Interests
 
 * I enjoy playing tennis.
