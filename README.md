@@ -33,11 +33,11 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Regions of Interest Quantified – Introduction to a Digital Humanities Solution to Editorial Methods (Part III.5)](https://jamesmtucker.com/?p=758&utm_source=rss&utm_medium=rss&utm_campaign=regions-of-interest-quantified-introduction-to-a-digital-humanities-solution-to-editorial-methods-part-iii-5)
-- [Regions of Interest Quantified – Solving Problems of the Analogue Methods of the Discoveries in the Judean Desert Series (Part III.4)](https://jamesmtucker.com/?p=618&utm_source=rss&utm_medium=rss&utm_campaign=regions-of-interest-quantified-solving-problems-of-the-analogue-methods-of-the-discoveries-in-the-judean-desert-series-part-iii-4)
-- [Job Search – Ups and Downs](https://jamesmtucker.com/?p=687&utm_source=rss&utm_medium=rss&utm_campaign=job-search-ups-and-downs)
-- [eWorkshop – Digital Methods of Material Reconstruction: The Jigsaw Puzzle of the Dead Sea Scrolls](https://jamesmtucker.com/?p=668&utm_source=rss&utm_medium=rss&utm_campaign=digital-methods-of-material-reconstruction-the-jigsaw-puzzle-of-the-dead-sea-scrolls)
-- [Palaeographical Analysis of 1QS+ab 5:1 (4Q256 3:1 [olim frag. 4] and 4Q258 1:1): A Blurb about my PhD Thesis](https://jamesmtucker.com/?p=645&utm_source=rss&utm_medium=rss&utm_campaign=palaeographical-analysis-of-1qsab-51-4q256-31-olim-frag-4-and-4q258-11-a-blurb-about-my-phd-thesis)
+- [Textual Criticism Transformed – Variants, Variances, and Variety](https://jamesmtucker.com/?p=969&utm_source=rss&utm_medium=rss&utm_campaign=textual-criticism-transformed-variants-variances-and-variety)
+- [Looking forward to 2021](https://jamesmtucker.com/?p=948&utm_source=rss&utm_medium=rss&utm_campaign=looking-forward-to-2021)
+- [On Material Reconstruction: No More Guessing Games](https://jamesmtucker.com/?p=919&utm_source=rss&utm_medium=rss&utm_campaign=on-material-reconstruction-no-more-guessing-games)
+- [Schriftenmetric – A Digital Humanities Approach to Scroll Reconstruction (Part IV.1)](https://jamesmtucker.com/?p=879&utm_source=rss&utm_medium=rss&utm_campaign=schriftenmetric-a-digital-humanities-approach-to-scroll-reconstruction-part-iv-1)
+- [Ancient Scribal Reading Practices: Did the Tradents of Qumran Read with a Yad?](https://jamesmtucker.com/?p=853&utm_source=rss&utm_medium=rss&utm_campaign=ancient-scribal-reading-practices-did-the-tradents-of-qumran-read-with-a-yad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
