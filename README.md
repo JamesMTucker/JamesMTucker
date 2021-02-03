@@ -33,8 +33,7 @@ ___
   <ul>MariaDB</ul>
   <ul>Juptyer Lab/Notebook</ul>
 </details>
-
-<br/>
+<br>
 
 ## Hobbies and Interests
 ___
