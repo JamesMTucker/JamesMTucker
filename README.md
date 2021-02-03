@@ -28,6 +28,7 @@ ___
 </details>
 <details>
 <summary>Ancient Fragment and Manuscript Classifier</summary>
+<br>
   Technologies and Languages used:
   <ul>Fastai/Pytorch</ul>
   <ul>Python (Pandas, Matplotlib, OpenCV)</ul>
