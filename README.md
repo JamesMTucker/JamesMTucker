@@ -8,9 +8,21 @@
 
 ### Current Projects
 
-* Natural Language Processing of Ancient Hebrew, Aramaic, and Greek (Data Science and Linguistics; Fastai, Pytorch, and PostgreSQL)
-* Digital Editions of Ancient Hebrew Manuscripts (Digital Humanities; Django/Python)
+* Natural Language Processing of Ancient Hebrew, Aramaic, and Greek
+  * Linguistics
+  * Fastai & Pytorch
+  * Python
+  * PostgreSQL
+  * Perl
+* Digital Editions of Ancient Hebrew Manuscripts
+  * Django/Python (Pandas, Scikit, OpenCV, Matplotlib)
+  * Jupyter Notebook & Viola
+  * R
+  * MariaDB
+  * JavaScript
 * Fragment Identification (Computer Vision; Fastai and Pytorch)
+  * Fastai
+  * Python (Pandas, Matplotlib, OpenCV)
 
 ### Hobbies and Interests
 
