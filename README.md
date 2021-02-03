@@ -4,19 +4,20 @@
 ### Education
 
 * Ph.D. (University of Toronto)
-* MA (Trinity Western University)
+* MA (Trinity Western University) – GPA 4.
 
 ### Current Projects
 
-* Digital Editions of Ancient Hebrew Manuscripts (Digital Humanities; Django/Python)
 * Natural Language Processing of Ancient Hebrew, Aramaic, and Greek (Data Science and Linguistics; Fastai, Pytorch, and PostgreSQL)
+* Digital Editions of Ancient Hebrew Manuscripts (Digital Humanities; Django/Python)
 * Fragment Identification (Computer Vision; Fastai and Pytorch)
 
 ### Hobbies and Interests
 
-* I enjoy playing tennis.
-* I enjoy solving problems, learning computer science, and writing about the relationship between technology, society, media, and knowledge.
-* I enjoy cooking and making spectacular dishes.
+* Tennis
+* Reading
+* Writing about technology and book history
+* Cooking spectacular dishes
 
 ---
 
