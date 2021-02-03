@@ -1,7 +1,8 @@
 ## Education
 ___
 * Ph.D. (University of Toronto)
-* MA (Trinity Western University) – GPA 4.
+* MA (Trinity Western University – GPA 4.12/4.30)
+* BA (Multnomah University – GPA 3.82/4.0)
 
 ## Current Projects
 ___
