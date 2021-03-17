@@ -1,11 +1,11 @@
 ## Education
-___
+
 * Ph.D. (University of Toronto)
 * MA (Trinity Western University – GPA 4.12/4.30)
 * BA (Multnomah University – GPA 3.82/4.0)
 
 ## Current Projects
-___
+
 <details>
 <summary>Natural Language Processing of Ancient Hebrew, Aramaic, and Greek</summary>
 <br>
@@ -38,14 +38,14 @@ ___
 <br>
 
 ## Hobbies and Interests
-___
+
 * Tennis
 * Reading
 * Writing about technology and book history
 * Cooking spectacular dishes
 
 ## Connect with me
-___
+
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -56,7 +56,7 @@ ___
 <br />
 
 ## Blog Posts
----
+
 <!-- BLOG-POST-LIST:START -->
 - [Textual Criticism Transformed – Variants, Variances, and Variety](https://jamesmtucker.com/?p=969&utm_source=rss&utm_medium=rss&utm_campaign=textual-criticism-transformed-variants-variances-and-variety)
 - [Looking forward to 2021](https://jamesmtucker.com/?p=948&utm_source=rss&utm_medium=rss&utm_campaign=looking-forward-to-2021)
@@ -66,7 +66,7 @@ ___
 <!-- BLOG-POST-LIST:END -->
 
 ## Git Activity Summary
----
+
 <img align="left" alt="James M. Tucker | Github Activity" src="https://github-readme-stats.vercel.app/api?username=JamesMTucker&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://jamesmtucker.com
